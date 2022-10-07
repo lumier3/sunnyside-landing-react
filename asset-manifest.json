@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sunnyside-landing-react/static/css/main.a6294019.css",
+    "main.js": "/sunnyside-landing-react/static/js/main.fb969cec.js",
+    "static/media/image-header.jpg": "/sunnyside-landing-react/static/media/image-header.9167cda0c72b56b2cda5.jpg",
+    "index.html": "/sunnyside-landing-react/index.html",
+    "main.a6294019.css.map": "/sunnyside-landing-react/static/css/main.a6294019.css.map",
+    "main.fb969cec.js.map": "/sunnyside-landing-react/static/js/main.fb969cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6294019.css",
+    "static/js/main.fb969cec.js"
+  ]
+}
